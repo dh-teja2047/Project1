@@ -1,0 +1,141 @@
+.header{
+    width: 1440px;
+    height: 572px;
+    background-color: rgba(255, 205, 158, 1);
+    display: inline-block;
+}
+
+.heading{
+    width: 562px;
+    height: 108px;
+    top: 83px;
+    margin-left: 136px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    color: rgba(40, 40, 40, 1);
+}
+
+.para{
+    width: 495px;
+    height: 81px;
+    top: 219px;
+    margin-left: 136px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(72, 72, 72, 1);
+}
+
+.show{
+    width: 227px;
+    height: 81px;
+    top: 315px;
+    margin-left: 136px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(40, 40, 40, 1);
+
+}
+
+.container1 {
+    display: flex;
+    margin-left: 124px;
+  }
+.field{
+    width: 300px;
+    height: 55px;
+    top: 411px;
+    margin-left: 136px;
+    border-radius: 8px;
+    border-color:rgba(0, 0, 0, 1);
+    border: 4px;
+    background-color: white;
+    font-family: Inter;
+    font-size: 20px;
+    padding-left: 30px;
+    border-style: solid;
+    line-height: 50px;
+    letter-spacing: 0em;
+    color: black;
+    flex: -1;
+    margin:10px;
+
+
+}
+
+.register{
+    width: 200px;
+    height: 59px;
+    margin-left: 136px;
+    top: 411px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    font-size: 20px;
+    line-height: 55px;
+    border-radius: 8px;
+    flex: -1;
+    margin:10px;
+    padding-left: 30px;
+}
+
+.disc{
+    width: 344px;
+    height: 61px;
+    top: 479px;
+    left: 134px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 136px;
+
+}
+.footer{
+    display: flex;
+    width: 1440px;
+    height: 298px;
+    top: 592px;
+    background: rgba(40, 40, 40, 1);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  rgba(255, 255, 255, 1);
+}
+
+
+.ul1{
+    display: inline-block;
+    list-style-type:none;
+    margin-top: 54px;
+    top: 654px;
+    flex: 1;
+    margin-left: 191px;
+}
+.ul2{
+    flex: 1;
+    margin: 10px;
+    margin-top: 54px;
+    list-style-type:none;
+    text-align:right;
+    /*display: table;*/
+    display:inline-block;
+    margin-right: 185px;
+
+}
